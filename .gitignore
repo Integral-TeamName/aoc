@@ -1,4 +1,8 @@
-.idea
+.idea/*
+!.idea/inspectionProfiles
+!.idea/workspace.xml
+.idea/inspectionProfiles/*
+!.idea/inspectionProfiles/profiles_settings.xml
 .vscode
 .DS_Store
 input
